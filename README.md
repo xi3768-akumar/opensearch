@@ -13,8 +13,6 @@
 
 
 
-
-
 ## Terraform Provider OpenSearch
 This is a terraform provider to provision OpenSearch resources.
 
